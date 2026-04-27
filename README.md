@@ -106,7 +106,7 @@ for msg in bus:
 
 ---
 
-## 🧪 Build Status
+##  Build Status
 
 | Component               | Status      | Next Milestone                     |
 |-------------------------|-------------|------------------------------------|
