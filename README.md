@@ -5,7 +5,7 @@
 [![UI Build](https://img.shields.io/badge/UI%20Core-v2.3.1-blue)](https://github.com/rheinwerk/ui-core)
 [![Discord](https://img.shields.io/badge/Community-Join-7289da)](https://discord.gg/rheinwerk)
 
-> *"We were bored of the single piece of soap."* – Elara Voss, CDO
+> *"We were bored of the single piece of soap."[![document](https://docs.google.com/document/d/106bs17lezMllLaTVeV5ZdVWZCUsmZl673o3K6x9Vn6Y/edit?usp=sharing)]
 
 **Rheinwerk Automotive** is an open-design initiative to reforge German automotive DNA. We are building the *01* — an electric performance coupe that prioritizes tactility, parametric surfaces, and emotional feedback over touchscreen ubiquity.
 
