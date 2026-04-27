@@ -160,11 +160,16 @@ We welcome contributions that respect the *visceral reduction* philosophy.
 - Physical meetups: Second Saturday of every month, Munich (former Bavarian foundry)
  <img width="678" height="959" alt="image" src="https://github.com/user-attachments/assets/8939f4d8-60bc-40d6-8172-60815f3bf5b8" />
 
+##  Contact
 
----
+Om Gedam
 
-##  Acknowledgments
+GitHub: [https://github.com/itsomg134](https://github.com/itsomg134)
 
-- Defectors from Porsche Sonderwunsch, BMW M, and IDEO Munich
-- Berlin techno DJ collective *Frictio*
-- The open-source automotive community at OScar
+Email: [omgedam123098@gmail.com](mailto:omgedam123098@gmail.com)
+
+Twitter (X): [https://twitter.com/omgedam](https://twitter.com/omgedam)
+
+LinkedIn: [https://linkedin.com/in/omgedam](https://linkedin.com/in/omgedam)
+
+Portfolio: [https://ogworks.lovable.app](https://ogworks.lovable.app)
