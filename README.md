@@ -158,7 +158,7 @@ We welcome contributions that respect the *visceral reduction* philosophy.
 - [Discord Server](https://discord.gg/rheinwerk) – #cad-critique, #haptic-dev, #techno-sound
 - [Twitter/X](https://twitter.com/rheinwerk) – Daily renders and sarcasm
 - Physical meetups: Second Saturday of every month, Munich (former Bavarian foundry)
-- <img width="678" height="959" alt="image" src="https://github.com/user-attachments/assets/8939f4d8-60bc-40d6-8172-60815f3bf5b8" />
+ <img width="678" height="959" alt="image" src="https://github.com/user-attachments/assets/8939f4d8-60bc-40d6-8172-60815f3bf5b8" />
 
 
 ---
