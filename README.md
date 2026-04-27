@@ -9,9 +9,8 @@
 
 **Rheinwerk Automotive** is an open-design initiative to reforge German automotive DNA. We are building the *01* — an electric performance coupe that prioritizes tactility, parametric surfaces, and emotional feedback over touchscreen ubiquity.
 
-This repository contains the design specifications, surface modeling data, UX logic for the "Command Core" haptic interface, and the synthesized V10-based sound profile.
+<img width="388" height="234" alt="image" src="https://github.com/user-attachments/assets/71690871-d07c-45f0-bac0-691aeb74e2ae" />
 
----
 
 ##  Philosophy
 
@@ -159,6 +158,8 @@ We welcome contributions that respect the *visceral reduction* philosophy.
 - [Discord Server](https://discord.gg/rheinwerk) – #cad-critique, #haptic-dev, #techno-sound
 - [Twitter/X](https://twitter.com/rheinwerk) – Daily renders and sarcasm
 - Physical meetups: Second Saturday of every month, Munich (former Bavarian foundry)
+- <img width="678" height="959" alt="image" src="https://github.com/user-attachments/assets/8939f4d8-60bc-40d6-8172-60815f3bf5b8" />
+
 
 ---
 
